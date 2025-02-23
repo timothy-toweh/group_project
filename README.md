@@ -1,2 +1,2 @@
-# group_project
-this is for the devops class
+# git checkout-b feature sandra7392
+vi Sandra.md
